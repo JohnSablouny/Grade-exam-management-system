@@ -1,0 +1,12 @@
+Question: Peut on utiliser SQL en PHP?
+Expected Answer: oui
+Student's Answer: oui
+
+Question: Quelle methode est la plus efficaces?
+Expected Answer: Get
+Student's Answer: td
+
+Question: Quelle sont les methodes de la form en PHP?
+Expected Answer: post et get
+Student's Answer: iuhkjn
+
